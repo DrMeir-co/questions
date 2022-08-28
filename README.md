@@ -6,6 +6,11 @@
 <details>
 
   <summary>Question 1: test question</summary>
+
+#### Detailed question:
+This is the detailed version of the question
+  
 #### Answer:
 Here is my very detailed great answer
+  
 </details>
