@@ -3,6 +3,9 @@
 # Introduction
 
 ## Intro to Programming
-### Question 1: test question
+<detail>
+
+  <summary>Question 1: test question</summary>
 #### Answer:
 Here is my very detailed great answer
+  </detail>
